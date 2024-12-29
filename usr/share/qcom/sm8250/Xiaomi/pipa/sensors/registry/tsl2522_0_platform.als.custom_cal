@@ -1,0 +1,1 @@
+{"tsl2522_0_platform.als.custom_cal":{"owner":"sns_tsl2522","coef_0_a":{"type":"flt","ver":"2","data":"1.000000"},"coef_1_a":{"type":"flt","ver":"2","data":"-1.453000"},"dgf_a":{"type":"flt","ver":"2","data":"8.511000"},"coef_0_b":{"type":"flt","ver":"2","data":"0.762000"},"coef_1_b":{"type":"flt","ver":"2","data":"-0.128000"},"dgf_b":{"type":"flt","ver":"2","data":"8.511000"}}}
